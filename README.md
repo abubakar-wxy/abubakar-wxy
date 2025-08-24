@@ -1,6 +1,6 @@
 ![Full-Stack Web Developer | MERN Stack Enthusiast](https://media.licdn.com/dms/image/v2/D5616AQE6vM8e2U217A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1683317181619?e=1758758400&v=beta&t=5hUJXMgMerWIagWyFCYjVMWjTeT-XYCraMXN3K4661w)
 
-### Hi there 👋, 👋 Hi, I’m Abu Bakar
+👋 Hi, I’m Abu Bakar
 #### Full-Stack Web Developer | MERN Stack Enthusiast
 
 I am a passionate and enthusiastic web developer with over 2 years of experience building websites and programming independently.  
