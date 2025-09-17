@@ -49,7 +49,7 @@ Also experienced in building and customizing WordPress websites
 </p>
 
 <!-- GitHub Trophy -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=abubakar-wxy" alt="abubakar-wxy" />
   </a>
