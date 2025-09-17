@@ -63,7 +63,7 @@ Also experienced in building and customizing WordPress websites
 
 <!-- Contribution Streak -->
 <div align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-wxy&theme=dracula" alt="GitHub Streak" />
+  <img height="150" src="https://streak-stats.demolab.com?user=abubakar-wxy&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
