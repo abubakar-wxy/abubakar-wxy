@@ -1,27 +1,71 @@
-![Full-Stack Web Developer | MERN Stack Enthusiast](https://media.licdn.com/dms/image/v2/D5616AQE6vM8e2U217A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1683317181619?e=1758758400&v=beta&t=5hUJXMgMerWIagWyFCYjVMWjTeT-XYCraMXN3K4661w)
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Abu%20Bakar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-👋 Hi, I’m Abu Bakar
-#### Full-Stack Web Developer | MERN Stack Enthusiast
+<h2 align="center">👋 Hi, I'm Abu Bakar</h2>
+<h4 align="center">Full-Stack Web Developer | MERN Stack Enthusiast</h4>
 
-I am a passionate and enthusiastic web developer with over 2 years of experience building websites and programming independently.  
-I specialize in **HTML, CSS, Bootstrap, Tailwind CSS, and modern JavaScript (ES6 & DOM)**, and I have hands-on experience with the **MERN stack**: MongoDB, Express.js, React.js, and Node.js.  
+---
 
-I am a self-motivated learner who loves exploring new technologies and improving my skills in the field of IT.  
-My goal is to become an expert programmer with a focus on **web development**, delivering efficient and user-friendly applications.
+### 🚀 About Me
+- 💻 Passionate **MERN Stack Developer** with hands-on experience in building full-stack web applications.  
+- 🌱 Currently exploring **backend scaling, cloud services, and system design**.  
+- 🎯 Goal: Deliver **efficient and user-friendly applications** while growing as a professional software engineer.  
+- ⚡ Fun fact: I enjoy solving real-life problems with code and building apps from scratch.  
 
-Skills: HTML / CSS / Bootstrap / Tailwind CSS / JavaScript (ES6) / React.js / Node.js / Express.js / MongoDB / MERN Stack / Git / GitHub / Firebase / Stripe / REST API
+---
 
-- 🔭 I’m currently working on Fidelitus 
-- 🌱 I’m currently learning Backend 
+### 🛠️ Tech Stack
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abubakar-wxy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abubakar24//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/freelancerabubakar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/abubakar.wxy//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/abubakar_wxy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@iam-Abu-Bakar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abu-bakar-portfolio.web.app/)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### 📊 GitHub Stats
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abubakar-wxy&show_icons=true&theme=dracula&hide_border=false&count_private=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakar-wxy&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-wxy)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abubakar-wxy&theme=dracula&hide_border=false" height="150" alt="streak stats"/>
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakar-wxy&show_icons=true)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=abubakar-wxy)  
+### 🌐 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/abubakar24/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/freelancerabubakar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/abubakar.wxy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/abubakar_wxy"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@iam-Abu-Bakar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://abu-bakar-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+</div>
 
+---
+
+### 🐍 Commit Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abubakar-wxy/abubakar-wxy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+</p>
