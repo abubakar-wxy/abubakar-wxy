@@ -1,21 +1,23 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Abu%20Bakar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Abu%20Bakar&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Enthusiast&descSize=18&descAlignY=55" />
 </p>
+
+---
 
 <h2 align="center">👋 Hi, I'm Abu Bakar</h2>
 <h4 align="center">
-Full-Stack Web Developer | MERN Stack Enthusiast <br/>
-Also experienced in building and customizing WordPress websites
+Passionate Full-Stack Developer | MERN Stack Enthusiast <br/>
+✨ Also experienced in building and customizing WordPress websites
 </h4>
 
 ---
 
 ### 🚀 About Me
-- 💻 Passionate **MERN Stack Developer** with hands-on experience in building full-stack web applications.  
+- 💻 Skilled in **MERN Stack Development** with hands-on experience in building full-stack web applications.  
 - 🌱 Currently exploring **backend scaling, cloud services, and system design**.  
-- 🎯 Goal: Deliver **efficient and user-friendly applications** while growing as a professional software engineer.  
-- ⚡ Fun fact: I enjoy solving real-life problems with code and building apps from scratch.  
+- 🎯 Goal: Deliver **scalable, efficient, and user-friendly solutions** while growing as a professional software engineer.  
+- ⚡ Fun fact: I love solving **real-world problems with clean code** and building apps from scratch.  
 
 ---
 
@@ -40,53 +42,48 @@ Also experienced in building and customizing WordPress websites
 ---
 
 ### 📊 GitHub Stats
-
-<h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
+<h3 align="center">📈 My Coding Journey in Numbers</h3>
 
 <!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abubakar-wxy&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar-wxy" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abubakar-wxy&label=Profile%20Views&color=00c6ff&style=flat" alt="abubakar-wxy" />
 </p>
 
 <!-- GitHub Trophy -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abubakar-wxy" alt="abubakar-wxy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=abubakar-wxy&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=6" />
 </p>
 
 <!-- GitHub Stats & Languages -->
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abubakar-wxy&show_icons=true&theme=dracula&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-wxy&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abubakar-wxy&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-wxy&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </div>
 
 <!-- Contribution Streak -->
 <div align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=abubakar-wxy&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img height="160" src="https://streak-stats.demolab.com?user=abubakar-wxy&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 🌐 Connect with Me
-
 <div align="center">
 
 **If you want to message me, please first reach out on WhatsApp**  
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801879114768)
 
-</div>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://abu-bakar-portfolio.web.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubakar24/) 
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abubakar_wxy) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@iam-Abu-Bakar)  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abubakar24/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/freelancerabubakar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/abubakar.wxy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/abubakar_wxy"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@iam-Abu-Bakar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://abu-bakar-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<!-- Kept professional links first, optional socials below -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abubakar.wxy/) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/freelancerabubakar) 
+
 </div>
 
 ---
