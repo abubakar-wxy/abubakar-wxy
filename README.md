@@ -41,20 +41,31 @@ Also experienced in building and customizing WordPress websites
 
 ### 📊 GitHub Stats
 
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abubakar-wxy&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar-wxy" />
+</p>
+
+<!-- GitHub Trophy -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abubakar-wxy" alt="abubakar-wxy" />
+  </a>
+</p>
+
+<!-- GitHub Stats & Languages -->
 <div align="center">
-
-<!-- GitHub Overall Stats -->
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=abubakar-wxy&show_icons=true&theme=dracula&hide_border=false&count_private=true" alt="GitHub Stats" />
-
-<!-- Top Languages -->
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-wxy&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
-
-<!-- GitHub Streak -->
-<img height="150" src="https://streak-stats.demolab.com?user=abubakar-wxy&theme=dracula&hide_border=false" alt="GitHub Streak" />
-
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abubakar-wxy&show_icons=true&theme=dracula&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar-wxy&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
 </div>
 
----
+<!-- Contribution Streak -->
+<div align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-wxy&theme=dracula" alt="GitHub Streak" />
+</div>
+
 
 <div align="center">
 
