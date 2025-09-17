@@ -41,7 +41,7 @@ Also experienced in building and customizing WordPress websites
 
 ### 📊 GitHub Stats
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 
 <!-- Profile Views -->
 <p align="left">
@@ -64,14 +64,6 @@ Also experienced in building and customizing WordPress websites
 <!-- Contribution Streak -->
 <div align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-wxy&theme=dracula" alt="GitHub Streak" />
-</div>
-
-
-<div align="center">
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=abubakar-wxy&theme=dracula&hide_border=false" alt="GitHub Activity Graph" />
-
 </div>
 
 ---
