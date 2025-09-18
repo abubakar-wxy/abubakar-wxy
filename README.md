@@ -68,9 +68,11 @@ Passionate Full-Stack Developer | MERN Stack Enthusiast <br/>
 </div>
 
 <!-- Contribution Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar-wxy&theme=dracula&hide_border=false" alt="abubakar-wxy" height="160" />
-</p>
+<div align="center">
+    <img height="160" 
+         src="https://streak-stats.demolab.com?user=abubakar-wxy&theme=dracula&hide_border=false" 
+         alt="GitHub Streak" />
+</div>
 
 ---
 
