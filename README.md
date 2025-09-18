@@ -82,7 +82,8 @@ Passionate Full-Stack Developer | MERN Stack Enthusiast <br/>
 
 **If you want to message me, please first reach out on WhatsApp**
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801879114768)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801879114768)  
+✉️ Email: [abubakar.wxy@gmail.com](mailto:abubakar.wxy@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://abu-bakar-portfolio.web.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubakar24/)
